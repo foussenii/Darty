@@ -11,6 +11,9 @@
       Typo au dessus de la barre de recherche #A2A2A2
       Typo rouge #C80000
 
+hover menu #D91627
+Slider Typo en dessous du slider #8C8C8C
+
 
 #Url Logo: Logo Darty(file:///Volumes/STORE%20N%20GO/Pack%20Darty/sprite_darty_logo.png)
            Icones header( -file:///Volumes/STORE%20N%20GO/Pack%20Darty/icon_h_service_livraison.png
@@ -66,7 +69,68 @@
                                 -file:///Users/charlottekrasniqi/Documents/Pack%20Darty/footer-twitter.png
                                 -file:///Users/charlottekrasniqi/Documents/Pack%20Darty/footer-pinterest.png
                                 -file:///Users/charlottekrasniqi/Documents/Pack%20Darty/footer-youtube.png
-                                -file:///Users/charlottekrasniqi/Documents/Pack%20Darty/footer-instagram.png )
-      hover menu #D91627
-          Slider 
-Typo en dessous du slider #8C8C8C
+                                -file:///Users/charlottekrasniqi/Documents/Pack%20Darty/footer-instagram.png 
+                                
+                                #Nomenclature
+                                
+                                
+**Martin**
+
+Header
+
+* .header
+
+* .logo-darty
+
+* .menu-header
+
+* .slide-header 
+
+
+
+**Sadia**
+
+Section
+
+* .bon-plans
+
+* .slide-second
+
+
+
+**Adams**
+
+Section
+
+* .promo
+
+* .slide-three
+
+
+
+**Ghunbot** 
+
+Section
+
+* .newsletter
+
+* .conseil
+
+
+
+**Fousseni**
+
+Section
+
+* .pay
+
+
+
+**Charlotte**
+
+Footer
+
+* info-footer
+
+* social-footer
+      
