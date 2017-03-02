@@ -71,3 +71,120 @@ Typo en dessous du slider #8C8C8C
                                 -file:///Photos-Darty/footer-pinterest.png
                                 -file:///Photos-Darty/footer-youtube.png
                                 -file:///Photos-Darty/footer-instagram.png )
+                                
+                                
+                                
+ ##nomenclature
+ 
+ **Martin**
+
+
+
+Header
+
+
+
+* .header
+
+
+
+* .logo-darty
+
+
+
+* .menu-header
+
+
+
+* .slide-header 
+
+
+
+
+
+
+
+**Sadia**
+
+
+
+Section
+
+
+
+* .bon-plans
+
+
+
+* .slide-second
+
+
+
+
+
+
+
+**Adams**
+
+
+
+Section
+
+
+
+* .promo
+
+
+
+* .slide-three
+
+
+
+
+
+
+
+**Ghunbot** 
+
+
+
+Section
+
+
+
+* .newsletter
+
+
+
+* .conseil
+
+
+
+
+
+
+
+**Fousseni**
+
+
+
+Section
+
+
+
+* .pay
+
+
+**Charlotte**
+
+
+
+Footer
+
+
+
+* info-footer
+
+
+
+* social-footer
