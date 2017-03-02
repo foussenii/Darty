@@ -7,7 +7,7 @@ import Header from './header.js';
 class App extends Component {
   render() {
     return (
-      <div className="App container">
+      <div className="body">
         <Header></Header>
         <Section></Section>
       </div>

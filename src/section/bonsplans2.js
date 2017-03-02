@@ -9,7 +9,7 @@ import './bonsplans2.css';
 class Section extends Component {
   render() {
     return (
-      <div className="Section">
+      <div className="Section container">
 
         <section className="bonsPlans">
           <div className="row">
