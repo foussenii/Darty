@@ -14,7 +14,7 @@ class Header extends Component {
   render() {
     return (
       <div className="container center">
-        <div className="container">
+        <div className="">
           <div className="logoBox">
             <img className="logoDarty" src={logoDarty} alt="logo-darty"/>
           </div>
