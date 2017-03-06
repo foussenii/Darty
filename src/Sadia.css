@@ -1,10 +1,11 @@
-.App{
+/*.App{
   background-color: #E5E5E5;
-}
+}*/
 .container-sadia {
-  width: 980px;
-  height: 2388px;
+  /*width: 980px;*/
+  /*height: 2388px;*/
   background-color: #F2F2F2;
+  margin-bottom: 40px;
 }
 #titre-bon-plans {
   font-size: 36px;
@@ -15,6 +16,8 @@ margin: 0  20px 0 20px;
 
 .container-product {
   display: flex;
+  /*justify-content: space-around;*/
+  background-color: #F2F2F2;
 }
 .product {
 width: 193px;
@@ -22,6 +25,7 @@ height: 280px;
 align-items: center;
 background-color: white;
 margin: 20px 0px 0 20px;
+
 }
 .product-img {
   display: flex;
@@ -30,6 +34,7 @@ margin: 20px 0px 0 20px;
 }
 .legend {
   position:relative;
+  margin-left: -15px;
 }
 
 .legend img {
@@ -97,11 +102,13 @@ margin: 20px 0px 0 20px;
   margin-right: 237px;
 
 }
-.slider-second {
-  width: 193px;
-  height: 280px;
+#slider-second {
+  width: 90%;
+  /*height: 280px;*/
   align-items: center;
   background-color: white;
   margin: 20px 0px 0 20px;
   display: flex;
+  align-items: center;
+  overflow-x: hidden;
 }

@@ -40,9 +40,9 @@ import sadiaSlider from './slider.js';
 class Sadia extends Component {
   render() {
     return (
-      <div className = "App">
-        <div className = "container container-sadia">
-            <h1 id = "titre-bon-plans">BONS PLANS</h1>
+      <div className="App">
+        <div className="container container-sadia">
+            <h1 id="titre-bon-plans">BONS PLANS</h1>
 <hr id="hr-one"></hr>
 <div className="container-product">
             <div className="product">
@@ -59,7 +59,7 @@ class Sadia extends Component {
 
             <div className="product">
               <div className="product-img">
-              <img src={honor8} id = 'honor' height="154" width="102"></img>
+              <img src={honor8} id='honor' height="154" width="102"></img>
               </div>
 <p className="price2">HONOR 8 PRENIUM ROSE</p>
 
@@ -71,7 +71,7 @@ class Sadia extends Component {
 
               <div className="product">
                 <div className="product-img">
-              <img src ={bekoMachine} id = 'beko' height="154" width="102"></img>
+              <img src ={bekoMachine} id='beko' height="154" width="102"></img>
 </div>
 <p className="price3">BEKO DDB7101PA0W</p>
   <div className="legend">
@@ -80,14 +80,14 @@ class Sadia extends Component {
   </div>
               </div>
 </div>
-<h1 id = "titre-product-consult">VOS DERNIERS PRODUITS CONSULTES</h1>
+<h1 id="titre-product-consult">VOS DERNIERS PRODUITS CONSULTES</h1>
 <hr id="hr-two"></hr>
 
-  <div id = "slide-second">
+  <div id="slider-second">
     <figure>
       <div className="container-product">
       <div className="product">
-  <img src = {samsungCard} id="samsung-msd"></img>
+  <img src={samsungCard} id="samsung-msd"></img>
   </div>
   <div className="product">
       <img src ={withingsBody}  id="withings-body"></img>
@@ -99,34 +99,34 @@ class Sadia extends Component {
       <img src={samsungOrA5} id="Samsung-OrA5" ></img>
       </div>
       <div className="product">
-  <img src = {dolceGusto} id="dolce-gusto"></img>
+  <img src={dolceGusto} id="dolce-gusto"></img>
   </div>
   <div className="product">
-        <img src = {samsungBlackA3} id="Samsung-BlackA3" ></img>
+        <img src={samsungBlackA3} id="Samsung-BlackA3" ></img>
         </div>
         <div className="product">
-        <img src = {googleChromecast} id="Google-chrome" ></img>
+        <img src={googleChromecast} id="Google-chrome" ></img>
         </div>
         <div className="product">
-        <img src = {nintendoZelda} id='Zelda'></img>
+        <img src={nintendoZelda} id='Zelda'></img>
         </div>
         <div className="product">
-  <img src = {samsungBlueA5} id="Samsung-BlueA5"></img>
+  <img src={samsungBlueA5} id="Samsung-BlueA5"></img>
   </div>
   <div className="product">
-          <img src = {magimixInissia} id="Magimix-i"></img>
+          <img src={magimixInissia} id="Magimix-i"></img>
           </div>
           <div className="product">
-          <img src = {whirPool} id="whirpool"></img>
+          <img src={whirPool} id="whirpool"></img>
           </div>
           <div className="product">
-          <img src = {proLine} id="proline"></img>
+          <img src={proLine} id="proline"></img>
           </div>
           <div className="product">
-  <img src = {dySon} id='dyson'></img>
+  <img src={dySon} id='dyson'></img>
   </div>
   <div className="product">
-          <img src = {microSoft} id='microsoft'></img>
+          <img src={microSoft} id='microsoft'></img>
           </div>
 </div>
         </figure>
