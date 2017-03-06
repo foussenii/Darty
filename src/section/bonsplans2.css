@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "open-sans";
+  src: url('../../Font-Darty/open-sans/OpenSans-Regular.ttf');
+}
+
+.Section {
+  /*test de mise en page*/
+  margin-top: 100px;
+  /*--------------------*/
+  font-family: "open-sans";
+}
+
+/*--------- Section bonsPlans---------*/
+
+.bonsPlans {
+  background-color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  box-shadow: 0 10px 6px -6px rgba(0, 0, 0, 0.03), 0 0px 2px 0px #e8e8e8 inset;
+}
+
+.content {
+  padding: 30px 0px 20px 20px;
+  overflow: hidden;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.title h4 {
+  font-size: 17px;
+  font-weight: bold;
+
+}
+
+.title-promo {
+  color: #ff0000;
+  font-weight: bold;
+
+}
+
+.img-container {
+  width: 240px;
+  padding-top: 10px;
+}
+
+.img-container > img {
+  width: 100%;
+}
+
+.img-container > a {
+  cursor: pointer;
+}
+
+.link {
+  list-style-type: none;
+  padding: 10px 0 0 0;
+}
+
+.link > li {
+  padding-top: 10px;
+}
+
+.link > li > a {
+  color: black;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.link li > span {
+  font-size: 11px;
+}
