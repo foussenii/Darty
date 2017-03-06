@@ -9,6 +9,7 @@ import Sadia from './Sadia.js';
 import Section from './section/bonsplans2.js';
 import Header from './header/header.js';
 import '../node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js'
+import Share from './Share/Share.js';
 
 class App extends Component {
   render() {
@@ -20,6 +21,7 @@ class App extends Component {
         <Section></Section>
         <Offres></Offres>
         <NewsLetter></NewsLetter>
+        <Share></Share>
         <Footer></Footer>
       </div>
     );
