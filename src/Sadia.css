@@ -1,0 +1,107 @@
+.App{
+  background-color: #E5E5E5;
+}
+.container-sadia {
+  width: 980px;
+  height: 2388px;
+  background-color: #F2F2F2;
+}
+#titre-bon-plans {
+  font-size: 36px;
+margin: 0  20px 0 20px;
+  display: inline-block;
+  font-family: roboto;
+}
+
+.container-product {
+  display: flex;
+}
+.product {
+width: 193px;
+height: 280px;
+align-items: center;
+background-color: white;
+margin: 20px 0px 0 20px;
+}
+.product-img {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+.legend {
+  position:relative;
+}
+
+.legend img {
+  display: flex;
+  justify-content: center;
+  margin-left: 20px;
+  margin-right: 45px;
+  position:absolute;
+  top:20px;
+  left:0;
+  -webkit-transition: opacity 0,5s ease-in-out;
+  transition: opacity 0,5s ease-in-out;
+
+}
+
+.legend img.price:hover{
+  opacity:0;
+
+}
+.price1 {
+  display: flex;
+  margin-left: 5px;
+  margin-top: 23px;
+  font-weight: bold;
+}
+.price1:{
+  opacity: 0;
+
+
+}
+.price2 {
+  display:flex;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.price3 {
+  font-weight: bold;
+}
+.price {
+  display: flex;
+  margin-bottom: 25px;
+
+}
+.pan img{
+  transition: opacity 1s ease-in-out;
+  position: fixed;
+}
+.pan:hover {
+  display: flex;
+  margin-bottom: 25px;
+  display: none;
+}
+#hr-one {
+  border: solid 0.5px black;
+  margin-right: 702px;
+  margin-left: 17px;
+}
+#titre-product-consult {
+font-size: 36px;
+margin: 20px 0px 0 20px;
+}
+#hr-two {
+  border: solid 0.5px black;
+  margin-left: 17px;
+  margin-right: 237px;
+
+}
+.slider-second {
+  width: 193px;
+  height: 280px;
+  align-items: center;
+  background-color: white;
+  margin: 20px 0px 0 20px;
+  display: flex;
+}
