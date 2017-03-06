@@ -1,18 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import Footer from './footer.js';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        
-      
 
-
-      <div className="footer"></div>
-
-
-      </div>
+   <Footer></Footer>
+    
     );
   }
 }
